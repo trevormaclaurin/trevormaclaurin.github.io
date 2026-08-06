@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Trevor MacLaurin"
-  pronouns         : "he/him" # example: "she/her"  
-  bio              : "I am a PhD student at McGill University"
+  pronouns         : "He/him" # example: "she/her"  
+  bio              : "I am a PhD student in the Arcitic Ecology Lab at McGill University. I am broadly interested in shorebird and seabird movement ecology, diet, and physiology."
   location         : "Montréal, Quebec"
   employer         : "McGill University"
   uri              : # URL
