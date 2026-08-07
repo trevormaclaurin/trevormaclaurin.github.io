@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "*Curriculum Vitae*"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -22,6 +22,8 @@ Education
   * Thesis: Impacts of vegetation encroachment on American Oystercatcher nest-site selection and reproductive success
 * **Ontario College Diploma, Ecological Restoration Technician**, Sir Sandford Fleming College, Lindsay, ON, Canada — 09/2019–05/2023
 
+---
+
 Peer-reviewed publications
 ======
 1. Brown, L.A., **T. MacLaurin**, S. Banerjee, E. Levine-Barnhoff & E. Nol. *In Press*. American Oystercatchers (*Haematopus palliatus*) support a foraging commensalism for Ruddy Turnstones (*Arenaria interpres*) and Sanderlings (*Calidris alba*). *Waterbirds*.
@@ -35,17 +37,21 @@ Peer-reviewed publications
 3. Brown, L.A., **T. MacLaurin**, A. May & E. Nol. *In review*. A visual sexing technique for American Oystercatchers (*Haematopus palliatus*) suitable for the field.
 4. Ausems, A.N.M.A., S. Roy, A.L. Bond, L. Crick, J.T. Cunningham, E.S. Hansen, A. Hedd, S. Hurling, **T. MacLaurin**, L.A. McFarlane Tranquilla, J.C. Rock, R.A. Ronconi, M. Sorais, C.R.E. Ward, S.I. Wilhelm, S.N.P. Wong & G.T. Crossin. *In review*. Differences in biogeochemical markers among juvenile Leach's storm-petrel (*Hydrobates leucorhous*) from colonies in the North Atlantic.
 
+---
+
 Research funding, grants, and awards
 ======
 * 07/2026: **Kenneth Williamson Bird Fund** [international] — 5,000 DKK (~$1,000 CAD), *Føroya Fuglafrøðifelag / Birdlife Faroe Islands*: Supports travel to facilitate bird-focused research in the Faroe Islands
-* 03/2023–03/2025: **Research Fellowship Award** [institutional] — $16,600 CAD, *Trent University*: Competitive scholarship to support graduate students
 * 05/2024: **Graduate Studies Academic Development Bursary** [institutional] — $750 CAD, *Trent University*: Competitive bursary to support academic development opportunities for graduate students
 * 03/2024: **Kenneth Williamson Bird Fund** [international] — 5,000 DKK (~$1,000 CAD), *Føroya Fuglafrøðifelag / Birdlife Faroe Islands*: Supports travel to facilitate bird-focused research in the Faroe Islands
 * 10/2023: **Student Travel Award** [international] — $500 USD (~$700 CAD), *The Waterbird Society*: Supports graduate student and ECR conference attendance
 * 05/2023: **Graduate Entrance Award** [institutional] — $700 CAD, *Trent University*: Merit-based award to support graduate students
-* 09/2021–05/2023: **National Renewable Scholarship** [institutional] — $3,000 CAD, *Trent University*: Recognizes academic excellence
+* 03/2023–03/2025: **Research Fellowship Award** [institutional] — $16,600 CAD, *Trent University*: Competitive scholarship to support graduate students
 * 04/2022: **Jed Burtt Undergraduate Mentoring Grant** [international] — $6,000 USD (~$7,500 CAD), *The Wilson Ornithological Society*: Competitive research grant to support undergraduate research done under the supervision of a graduate student
+* 09/2021–05/2023: **National Renewable Scholarship** [institutional] — $3,000 CAD, *Trent University*: Recognizes academic excellence
 * 06/2019: **Lynda & James Lennox Award for Environmental Leadership** [institutional] — $1,000 CAD, *Ottawa-Carleton District School Board*: Recognizes exceptional environmental leadership
+
+---
 
 Presentations
 ======
@@ -72,27 +78,30 @@ Presentations
 1. **MacLaurin, T.** & E. Nol. 2024. Drivers of Differential Migration in American Oystercatchers. *Western Hemisphere Shorebird Group conference. Sackville, NB, Canada.*
 2. **MacLaurin, T.** & E. Nol. 2023. Partial Migration of American Oystercatchers in Virginia, U.S.A. *The Waterbird Society Conference. Ft. Lauderdale, FL, U.S.A.*
 
+---
+
 Science communication and public outreach
 ======
-* Parks day
 * [Web blog](https://flipbook.so/flip/TTZKWnPVLvRPNJBa206T) — The Lisboa connection: How a Storm Petrel bridged 18 years and 3,000 kilometers. 2026. *Føroya Fuglafrøðifelag (Birdlife Faroe Islands)*.
 * Newspaper article — A month of seabirds and sunshine. 2024. *Føroya Fuglafrøðifelag (Birdlife Faroe Islands)*.
 * [Web blog](https://wilsonsociety.org/2023/12/05/guest-post-do-american-oystercatchers-avoid-beaches-with-dense-vegetation/) — Do American Oystercatchers Avoid Beaches with Dense Vegetation? 2023. *Wilson Ornithological Society*.
 
+---
+
 Research and professional experience
 ======
-* 12/2025–Present: **Research Analyst**, Dalhousie University, NS, Canada (Remote)
-  * Leading production of a manuscript and analysis related to Leach's Storm-Petrel movement and activity patterns to understand how females and males differ under the energetic and physiological demands of reproduction. In partnership with Environment & Climate Change Canada and the SEATRACK collaboration.
 * 01/2026–03/2026: **Data Analyst**, Environment & Climate Change Canada, SK, Canada (Remote)
   * Leading the development of a Quality Assurance and Quality Control workflow for shorebird and waterbird data collection programs. Leading the analysis of Piping Plover monitoring surveys estimating the marginal gain between single and double observer surveys.
+* 12/2025–Present: **Research Analyst**, Dalhousie University, NS, Canada (Remote)
+  * Leading production of a manuscript and analysis related to Leach's Storm-Petrel movement and activity patterns to understand how females and males differ under the energetic and physiological demands of reproduction. In partnership with Environment & Climate Change Canada and the SEATRACK collaboration.
 * 07/2025–10/2025: **Assistant Seabird Biologist**, Aarhus University, Aarhus, Denmark (fieldwork in the Faroe Islands)
   * European Storm Petrel ringing, GPS-tagging/retrieval, and biological sampling (bleeding, opportunistic regurgitate sampling, opportunistic faecal sampling, feather sampling). Colony productivity monitoring, including chick weighing and ringing. Deployment and upkeep of nest cameras.
 * 06/2025: **Shorebird Research Technician**, Trent University, ON, Canada (fieldwork in Churchill, MB, Canada)
   * Nest-searching for Subarctic breeding shorebirds (Hudsonian Whimbrel, Semipalmated Plover, Long-billed Dowitcher, Least Sandpiper, Stilt Sandpiper, etc.). Capturing, ringing, colour flagging, and GPS-tagging of adult Hudsonian Whimbrel. Remote fieldwork in the Subarctic in areas with extremely high polar bear density, requiring diligent safety measures (bear guarding, firearm handling, safety check-ins).
-* 05/2023–05/2025: **Graduate Researcher**, Trent University, ON, Canada (fieldwork in Chincoteague National Wildlife Refuge, VA, USA)
-  * Behavioural observation studies. Nest searching and monitoring for American Oystercatchers, Piping Plovers, Wilson's Plovers, and Least Terns. Capturing, ringing, and GPS-tagging adult Oystercatchers and Piping Plovers. Prey sampling and predator abundance surveys. Shorebird and waterbird migration surveys. Deployment and upkeep of nest cameras. Fieldwork in hot, humid conditions requiring safe operation of powered watercraft in tidal environments and off-road vehicles (ATVs/4x4).
 * 09/2024–10/2024: **Seabird Research Technician**, Aarhus University, Aarhus, Denmark (fieldwork in the Faroe Islands)
   * See responsibilities under "Assistant Seabird Biologist" above.
+* 05/2023–05/2025: **Graduate Researcher**, Trent University, ON, Canada (fieldwork in Chincoteague National Wildlife Refuge, VA, USA)
+  * Behavioural observation studies. Nest searching and monitoring for American Oystercatchers, Piping Plovers, Wilson's Plovers, and Least Terns. Capturing, ringing, and GPS-tagging adult Oystercatchers and Piping Plovers. Prey sampling and predator abundance surveys. Shorebird and waterbird migration surveys. Deployment and upkeep of nest cameras. Fieldwork in hot, humid conditions requiring safe operation of powered watercraft in tidal environments and off-road vehicles (ATVs/4x4).
 * 04/2022–04/2023: **Undergraduate Researcher**, Trent University, ON, Canada (fieldwork in Chincoteague National Wildlife Refuge, VA, USA)
   * See responsibilities under "Graduate Researcher" above.
 * 12/2021–04/2022: **Undergraduate Research Assistant**, Trent University, ON, Canada (Remote)
@@ -105,6 +114,8 @@ Research and professional experience
   * General wildlife and plant inventory monitoring and identification. Accurate location mapping of all wildlife using GPS devices. Fieldwork requiring long days of hiking and canoeing.
 * 05/2017–08/2017: **Water Resource Intern**, Rideau Valley Conservation Authority, ON, Canada (fieldwork in Ottawa & Lanark, ON, Canada)
   * See responsibilities under "Water Resource Technician" above.
+
+---
 
 Teaching and mentorship
 ======
@@ -124,14 +135,18 @@ Teaching and mentorship
 * 01/2026–03/2026: **Moiz Siddiqui**, BSc Student, University of Alberta — *Environment & Climate Change Canada*
   * Trained Moiz to develop and understand QAQC workflows for shorebird and waterbird surveys, including how to identify and fix common errors, and best coding practices therein.
 
+---
+
 Professional service and memberships
 ======
-* **Steering Committee**, American Oystercatcher Working Group. 2024–Present.
 * Member, Whimbrel Working Group. 2026–Present.
 * Member, Pacific Seabird Group. 2025–Present.
-* Member, The Waterbirds Society. 2023–Present.
+* **Steering Committee**, American Oystercatcher Working Group. 2024–Present.
+* Member, The Waterbird Society. 2023–Present.
 * Member, Wilson Ornithological Society. 2021–2024.
 * Member, American Ornithological Society. 2021–2024.
+
+---
 
 Relevant training, skills, and certifications
 ======
