@@ -23,7 +23,7 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-date">05/2023–05/2025</div>
   <div class="cv-content">
-    <span class="cv-title"><b>M.Sc.</b>, Environment &amp; Life Sciences</span><br>
+    <span class="cv-title"><b>M.Sc.</b>, Environment &amp; Life Sciences (Biology)</span><br>
     Trent University, Peterborough, ON, Canada
     <p>Supervisor: E. Nol &middot; Committee: P.A. Smith, N.R. Senner<br>
     Thesis: Phenology and movement ecology of mid-Atlantic breeding shorebirds</p>
