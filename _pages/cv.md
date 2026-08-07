@@ -14,9 +14,9 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-date">09/2026–Present</div>
   <div class="cv-content">
-    <span class="cv-title">Ph.D., Renewable Resources (Wildlife Biology)</span><br>
+    <span class="cv-title"><b>Ph.D.</b>, Renewable Resources (Wildlife Biology)</span><br>
     McGill University, Montréal, QC, Canada
-    <p>Supervisors: K.H. Elliott, P.A. Smith &middot; Committee: E. Nol</p>
+    <p>Ii>Supervisors: K.H. Elliott, P.A. Smith &middot; Committee: E. Nol</i></p>
   </div>
 </div>
 
