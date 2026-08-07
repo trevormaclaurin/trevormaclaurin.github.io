@@ -26,10 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Trevor MacLaurin"
   pronouns         : "He/him" # example: "she/her"  
-  bio              : | 
-                        I am a PhD student in the Arctic Ecology Lab at McGill University (Montréal, Quebec) studying the dietary and movement ecology of shorebirds in the Canadian Subarctic. 
-
-                        I completed both my MSc and BSc at Trent University (Peterborough, Ontario), where I studied migration, movement, and nesting phenology of American Oystercatchers at Chincoteague National Wildlife Refuge (Virginia). 
+  bio              :  "I am a PhD student in the Arctic Ecology Lab at McGill University (Montréal, Quebec) studying the dietary and movement ecology of shorebirds in the Canadian Subarctic."
 
   location         : "Montréal, Quebec"
   employer         : "McGill University"
