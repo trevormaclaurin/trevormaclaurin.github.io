@@ -33,10 +33,10 @@ redirect_from:
 <div class="cv-entry">
   <div class="cv-date">09/2019–05/2023</div>
   <div class="cv-content">
-    <span class="cv-title">B.Sc. (Honours), Ecological Restoration</span><br>
+    <span class="cv-title"><b>B.Sc.</b> (Honours), Ecological Restoration</span><br>
     Trent University, Peterborough, ON, Canada
-    <p>Supervisor: E. Nol<br>
-    Thesis: Impacts of vegetation encroachment on American Oystercatcher nest-site selection and reproductive success</p>
+    <i>Supervisor: E. Nol</i><br>
+    Thesis: Impacts of vegetation encroachment on American Oystercatcher nest-site selection and reproductive success
   </div>
 </div>
 
