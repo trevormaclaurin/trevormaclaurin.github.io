@@ -17,11 +17,9 @@ redirect_from:
   <div class="cv-content">
     <span class="cv-title"><b>Ph.D.</b>, Renewable Resources (Wildlife Biology)</span><br>
     McGill University, Montréal, QC, Canada
-    <br><i>Supervisors: K.H. Elliott, P.A. Smith &middot; Committee: E. Nol</i>
+    <br><i>Supervisors: K.H. Elliott, P.A. Smith &middot; Committee: E. Nol</i> <br>
   </div>
 </div>
-
-<br>
 
 <div class="cv-entry">
   <div class="cv-date">05/2023–05/2025</div>
