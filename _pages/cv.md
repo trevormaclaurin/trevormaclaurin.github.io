@@ -12,16 +12,16 @@ redirect_from:
 <h2 class="cv-heading">Education</h2>
 <hr>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">09/2026–Present</div>
   <div class="cv-content">
     <span class="cv-title"><b>Ph.D.</b>, Renewable Resources (Wildlife Biology)</span><br>
     McGill University, Montréal, QC, Canada
-    <br><i>Supervisors: K.H. Elliott, P.A. Smith &middot; Committee: E. Nol</i> <br>
+    <br><i>Supervisors: K.H. Elliott, P.A. Smith &middot; Committee: E. Nol</i>
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2023–05/2025</div>
   <div class="cv-content">
     <span class="cv-title"><b>M.Sc.</b>, Environment &amp; Life Sciences (Biology)</span><br>
@@ -31,9 +31,7 @@ redirect_from:
   </div>
 </div>
 
-<br>
-
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">09/2019–05/2023</div>
   <div class="cv-content">
     <span class="cv-title"><b>B.Sc.</b> (Honours), Ecological Restoration</span><br>
@@ -43,9 +41,7 @@ redirect_from:
   </div>
 </div>
 
-<br>
-
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">09/2019–05/2023</div>
   <div class="cv-content">
     <span class="cv-title">Ontario College Diploma, Ecological Restoration Technician</span><br>
@@ -75,7 +71,7 @@ redirect_from:
 <h2 class="cv-heading">Research funding, grants, and awards</h2>
 <hr>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">07/2026</div>
   <div class="cv-content">
     <span class="cv-title">Kenneth Williamson Bird Fund</span> [international] — 5,000 DKK (~$1,000 CAD)<br>
@@ -84,7 +80,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2024</div>
   <div class="cv-content">
     <span class="cv-title">Graduate Studies Academic Development Bursary</span> [institutional] — $750 CAD<br>
@@ -93,7 +89,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">03/2024</div>
   <div class="cv-content">
     <span class="cv-title">Kenneth Williamson Bird Fund</span> [international] — 5,000 DKK (~$1,000 CAD)<br>
@@ -102,7 +98,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">10/2023</div>
   <div class="cv-content">
     <span class="cv-title">Student Travel Award</span> [international] — $500 USD (~$700 CAD)<br>
@@ -111,7 +107,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2023</div>
   <div class="cv-content">
     <span class="cv-title">Graduate Entrance Award</span> [institutional] — $700 CAD<br>
@@ -120,7 +116,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">03/2023–03/2025</div>
   <div class="cv-content">
     <span class="cv-title">Research Fellowship Award</span> [institutional] — $16,600 CAD<br>
@@ -129,7 +125,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">04/2022</div>
   <div class="cv-content">
     <span class="cv-title">Jed Burtt Undergraduate Mentoring Grant</span> [international] — $6,000 USD (~$7,500 CAD)<br>
@@ -138,7 +134,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">09/2021–05/2023</div>
   <div class="cv-content">
     <span class="cv-title">National Renewable Scholarship</span> [institutional] — $3,000 CAD<br>
@@ -147,7 +143,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">06/2019</div>
   <div class="cv-content">
     <span class="cv-title">Lynda &amp; James Lennox Award for Environmental Leadership</span> [institutional] — $1,000 CAD<br>
@@ -207,7 +203,7 @@ redirect_from:
 <h2 class="cv-heading">Research and professional experience</h2>
 <hr>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">01/2026–03/2026</div>
   <div class="cv-content">
     <span class="cv-title">Data Analyst</span>, Environment &amp; Climate Change Canada, SK, Canada (Remote)
@@ -215,7 +211,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">12/2025–Present</div>
   <div class="cv-content">
     <span class="cv-title">Research Analyst</span>, Dalhousie University, NS, Canada (Remote)
@@ -223,7 +219,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">07/2025–10/2025</div>
   <div class="cv-content">
     <span class="cv-title">Assistant Seabird Biologist</span>, Aarhus University, Aarhus, Denmark (fieldwork in the Faroe Islands)
@@ -231,7 +227,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">06/2025</div>
   <div class="cv-content">
     <span class="cv-title">Shorebird Research Technician</span>, Trent University, ON, Canada (fieldwork in Churchill, MB, Canada)
@@ -239,7 +235,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">09/2024–10/2024</div>
   <div class="cv-content">
     <span class="cv-title">Seabird Research Technician</span>, Aarhus University, Aarhus, Denmark (fieldwork in the Faroe Islands)
@@ -247,7 +243,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2023–05/2025</div>
   <div class="cv-content">
     <span class="cv-title">Graduate Researcher</span>, Trent University, ON, Canada (fieldwork in Chincoteague National Wildlife Refuge, VA, USA)
@@ -255,7 +251,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">04/2022–04/2023</div>
   <div class="cv-content">
     <span class="cv-title">Undergraduate Researcher</span>, Trent University, ON, Canada (fieldwork in Chincoteague National Wildlife Refuge, VA, USA)
@@ -263,7 +259,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">12/2021–04/2022</div>
   <div class="cv-content">
     <span class="cv-title">Undergraduate Research Assistant</span>, Trent University, ON, Canada (Remote)
@@ -271,7 +267,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2021–08/2021</div>
   <div class="cv-content">
     <span class="cv-title">Water Resource Technician</span>, Rideau Valley Conservation Authority, ON, Canada (fieldwork in Ottawa &amp; Lanark, ON, Canada)
@@ -279,7 +275,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2019–08/2020</div>
   <div class="cv-content">
     <span class="cv-title">Park Ranger</span>, Ontario Parks, ON, Canada (fieldwork in Murphys Point Provincial Park)
@@ -287,7 +283,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2018–08/2018</div>
   <div class="cv-content">
     <span class="cv-title">Ecology Intern</span>, MacSkimming Outdoor Education Center, ON, Canada (fieldwork in Cumberland, ON, Canada)
@@ -295,7 +291,7 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">05/2017–08/2017</div>
   <div class="cv-content">
     <span class="cv-title">Water Resource Intern</span>, Rideau Valley Conservation Authority, ON, Canada (fieldwork in Ottawa &amp; Lanark, ON, Canada)
@@ -308,7 +304,7 @@ redirect_from:
 
 *Teaching*
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">09/2023–04/2025</div>
   <div class="cv-content">
     <span class="cv-title">Graduate Teaching Assistant</span>, Trent University
@@ -322,14 +318,14 @@ redirect_from:
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">08/2023</div>
   <div class="cv-content">
     <span class="cv-title">Shorebird Identification Workshop Leader</span>, Chincoteague National Wildlife Refuge, Virginia
   </div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">2018–2019</div>
   <div class="cv-content">
     <span class="cv-title">Interpretive Educator</span>, Ducks Unlimited Canada, at MacSkimming Outdoor Education Center
@@ -338,7 +334,7 @@ redirect_from:
 
 *Mentorship*
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">01/2026–03/2026</div>
   <div class="cv-content">
     <span class="cv-title">Moiz Siddiqui</span>, BSc Student, University of Alberta — <em>Environment &amp; Climate Change Canada</em>
@@ -349,32 +345,32 @@ redirect_from:
 <h2 class="cv-heading">Professional service and memberships</h2>
 <hr>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">2026–Present</div>
   <div class="cv-content">Member, Whimbrel Working Group</div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">2025–Present</div>
   <div class="cv-content">Member, Pacific Seabird Group</div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">2024–Present</div>
   <div class="cv-content"><span class="cv-title">Steering Committee</span>, American Oystercatcher Working Group</div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">2023–Present</div>
   <div class="cv-content">Member, The Waterbird Society</div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">2021–2024</div>
   <div class="cv-content">Member, Wilson Ornithological Society</div>
 </div>
 
-<div class="cv-entry">
+<div class="cv-entry" style="margin-bottom: 0.75em;">
   <div class="cv-date">2021–2024</div>
   <div class="cv-content">Member, American Ornithological Society</div>
 </div>
