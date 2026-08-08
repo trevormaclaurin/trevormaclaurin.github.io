@@ -33,6 +33,8 @@ redirect_from:
   </div>
 </div>
 
+<br>
+
 <div class="cv-entry">
   <div class="cv-date">09/2019–05/2023</div>
   <div class="cv-content">
@@ -42,6 +44,8 @@ redirect_from:
     Thesis: Impacts of vegetation encroachment on American Oystercatcher nest-site selection and reproductive success
   </div>
 </div>
+
+<br>
 
 <div class="cv-entry">
   <div class="cv-date">09/2019–05/2023</div>
