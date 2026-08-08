@@ -21,6 +21,8 @@ redirect_from:
   </div>
 </div>
 
+<br>
+
 <div class="cv-entry">
   <div class="cv-date">05/2023–05/2025</div>
   <div class="cv-content">
