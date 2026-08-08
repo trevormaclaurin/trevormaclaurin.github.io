@@ -1,6 +1,7 @@
 ---
 title: "Influence of vegetation and elevation on nest-site selection and reproductive success in American Oystercatchers"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-09-01-vegetation-elevation-nest-site-selection
 excerpt: 'Examines how vegetation cover and elevation shape nest-site selection and reproductive success in American Oystercatchers.'
 date: 2026-09-01
