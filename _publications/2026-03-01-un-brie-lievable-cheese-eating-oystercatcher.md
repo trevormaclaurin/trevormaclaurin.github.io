@@ -1,6 +1,7 @@
 ---
 title: "Un-brie-lievable: A cheese-eating Eurasian Oystercatcher (Haematopus ostralegus)"
 collection: publications
+category: manuscripts
 permalink: /publication/2026-03-01-un-brie-lievable-cheese-eating-oystercatcher
 excerpt: 'Note documenting a Eurasian Oystercatcher observed eating cheese.'
 date: 2026-03-01
