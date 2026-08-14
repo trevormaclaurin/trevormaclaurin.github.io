@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Trevor MacLaurin"
+title: "Trevor MacLaurin (he/him)"
 excerpt: "PhD Student, McGill University"
 author_profile: true
 layout: splash
