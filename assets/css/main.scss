@@ -37,3 +37,17 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ==========================================================================
+   Custom overrides
+   ========================================================================== */
+
+.page__hero--overlay {
+  min-height: 400px;
+
+  @media (min-width: 1024px) {
+    min-height: 500px;
+  }
+}    "layout/sidebar",
+    "layout/json_cv"
+;
