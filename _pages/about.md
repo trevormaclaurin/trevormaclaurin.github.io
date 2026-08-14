@@ -11,14 +11,13 @@ header:
   actions: []
 ---
 
-I'm a [your field/role — e.g. wildlife ecologist] studying [your focus area]. My research centers on [brief description].
+I'm a PhD student at McGill University studying shorebird diet. 
 
 ## Background
 
-A paragraph or two about your academic path, current position, and interests.
+I have an MSc and BSc from Trent University blah blah
 
 ## Research Interests
 
-- Item one
-- Item two
-- Item three
+- One
+- Two
