@@ -192,8 +192,6 @@ redirect_from:
 <h2 class="cv-heading">Science communication and public outreach</h2>
 <hr>
 
-* Parks day
-
 * [Web blog](https://flipbook.so/flip/TTZKWnPVLvRPNJBa206T) — The Lisboa connection: How a Storm Petrel bridged 18 years and 3,000 kilometers. 2026. *Føroya Fuglafrøðifelag (Birdlife Faroe Islands)*.
 
 * Newspaper article — A month of seabirds and sunshine. 2024. *Føroya Fuglafrøðifelag (Birdlife Faroe Islands)*.
