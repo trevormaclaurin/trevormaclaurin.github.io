@@ -7,7 +7,7 @@ excerpt: 'Barrier island habitats are increasingly threatened by climate change,
 for the breeding success and habitat quality of beach-nesting birds. Understanding fine-scale habitat require-
 ments is important for identifying risks and managing these environments to support reproductive success. We
 evaluated two key habitat features, vegetation density and elevation, to understand their influence on American
-Oystercatcher (_Haematopus palliatus_) nest-site selection, hatching success, and fledging success on two Virginia
+Oystercatcher (*Haematopus palliatus*) nest-site selection, hatching success, and fledging success on two Virginia
 (U.S.A.) barrier islands (Assateague and Assawoman Island). Using long-term nest monitoring data (2007–2022)
 and three years of remotely sensed elevation and vegetation data (2015, 2016, and 2021), we found that American
 Oystercatchers consistently preferred nest sites with lower vegetation density and at higher elevation. However, neither
