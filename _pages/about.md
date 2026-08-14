@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
+title: "Trevor MacLaurin"
+excerpt: "PhD Student, McGill University"
 author_profile: true
 layout: splash
 header:
