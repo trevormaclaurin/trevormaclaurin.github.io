@@ -6,7 +6,7 @@ permalink: /publication/2026-09-01-vegetation-elevation-nest-site-selection
 excerpt: 'Examines how vegetation cover and elevation shape nest-site selection and reproductive success in American Oystercatchers.'
 date: 2026-09-01
 venue: 'Waterbirds'
-paperurl: 'https://doi.org/10.1675/063.048.0310'
+paperurl: 'http://trevormaclaurin.github.io/files/amoy_veg_MacLaurin2026.pdf'
 citation: '<b>MacLaurin, T.</b>, L.A. Brown & E. Nol. (2026). "Influence of vegetation and elevation on nest-site selection and reproductive success in American Oystercatchers." <i>Waterbirds</i>, 48(3): 1–10.'
 ---
 Barrier island habitats are increasingly threatened by climate change, with potential consequences
